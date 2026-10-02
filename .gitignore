@@ -1,0 +1,20 @@
+
+# Dependencies
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Allure
+allure-results/
+allure-report/
+
+# Other generated files
+coverage/
+.vite/
+.DS_Store
+npm-debug.log*

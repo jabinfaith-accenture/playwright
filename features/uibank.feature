@@ -6,7 +6,7 @@ Feature: UiBank banking flows
     And I accept the privacy policy
     Then I should be on the accounts page
     When I log out
-    Then I should be on the welcome page
+    Then I should be on the welcome pagee
 
   Scenario: Create a new checking account and then logout
     Given I am on the UiBank welcome page

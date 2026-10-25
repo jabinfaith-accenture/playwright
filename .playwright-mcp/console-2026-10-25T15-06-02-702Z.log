@@ -1,0 +1,3 @@
+[    6165ms] [LOG] null @ https://uibank.uipath.com/main.73c9b9933fd559ba.js:0
+[    6165ms] [LOG] initialised the welcome page @ https://uibank.uipath.com/main.73c9b9933fd559ba.js:0
+[    6259ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://uibank.uipath.com/welcome:0

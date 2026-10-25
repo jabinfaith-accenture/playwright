@@ -1,6 +1,6 @@
 # GitHub Copilot Toolbox — MCP & Skills awareness
 
-_Generated: 2026-10-05T08:52:20.206Z_
+_Generated: 2026-10-25T18:24:23.216Z_
 
 ## How to use this report
 
@@ -21,11 +21,9 @@ _No active workspace servers in mcp.json._
 
 ## MCP — user profile
 
-- **C:\Users\p.jabin.faith\AppData\Roaming\Code\User\mcp.json** — _File exists — servers defined_
+- **C:\Users\p.jabin.faith\AppData\Roaming\Code\User\mcp.json** — _File exists — no servers defined_
 
-| Server id | Kind | Detail |
-|-----------|------|--------|
-| playwright | stdio | npx @playwright/mcp@latest |
+_No active user-scoped servers in mcp.json._
 
 ## Skills (local `SKILL.md` folders)
 
